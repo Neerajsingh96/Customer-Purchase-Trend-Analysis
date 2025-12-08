@@ -1,4 +1,5 @@
 Customer Purchase Trend Analysis
+
   This project analyzes 3,900 customer purchase records to identify trends in buying behavior, product demand, revenue contribution, and customer engagement. It   includes data loading, EDA, cleaning, SQL queries, a Power BI dashboard, a written report, and a final presentation created using Gamma.
 
 ⭐ Overview
